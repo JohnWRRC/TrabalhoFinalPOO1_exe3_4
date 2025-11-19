@@ -1,7 +1,7 @@
 # 📘 Trabalho Final POO — Exercícios 3 e 4
 
-📎 **Baixar vídeo de explicação:**
-👉 [Clique aqui para baixar o vídeo](./VideoExplicacao_Exec_3_4.mp4)
+📎 <strong>Baixar vídeo de explicação:</strong><br>
+👉 <a href="./VideoExplicacao_Exec_3_4.mp4" download> Clique aqui para baixar o vídeo </a>
 
 ## 🎯 **Visão Geral do Projeto**
 Este projeto contém a implementação completa e comentada dos **Exercícios 3 e 4** da disciplina de **Programação Orientada a Objetos 1 (POO1)**.
