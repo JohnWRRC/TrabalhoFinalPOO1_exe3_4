@@ -4,7 +4,7 @@
 👉 [Clique aqui para baixar o vídeo](./Explicacao_Exercicios3e4.mp4)
 
 ## 🎯 **Visão Geral do Projeto**
-Este projeto contém a implementação completa e comentada dos **Exercícios 3 e 4** da disciplina de **Programação Orientada a Objetos 1 (POO1)**. 
+Este projeto contém a implementação completa e comentada dos **Exercícios 3 e 4** da disciplina de **Programação Orientada a Objetos 1 (POO1)**.
 
 A estrutura fornecida pelo aluno é:
 ```
@@ -70,7 +70,7 @@ Este exercício pede explicitamente:
 ### ✔️ O que foi implementado
 - Matrizes representadas como `double[3][1]`.
 - Validação completa para garantir que todas tenham dimensão **3 linhas e 1 coluna**.
-- Método `subtrair(a, b, c)` que calcula: 
+- Método `subtrair(a, b, c)` que calcula:
 ```
 c[i][0] = a[i][0] - b[i][0]
 ```
@@ -111,11 +111,3 @@ Este projeto resolve completamente os Exercícios 3 e 4 com:
 - Código organizado.
 - Comentários claros.
 - Método para subtração de matrizes 3x1 com validação.
-
-Se quiser deixo o README ainda mais completo, com:
-- Fluxograma  
-- Tabela de erros possíveis  
-- Diagramas visuais  
-- Pseudocódigo  
-
-Basta pedir! ✨
