@@ -104,7 +104,9 @@ Para facilitar seu entendimento, preparei um vídeo detalhado explicando:
 - Como funcionam as matrizes 3x1 no Java.
 
 📎 **Baixar vídeo de explicação:**
-👉 [Clique aqui para baixar o vídeo](./Explicacao_Exercicios3e4.mp4)
+<div align="center">
+👉 <a href="./VideoExplicacao_Exec_3_4.mp4?raw=true"><strong>Clique aqui para baixar o vídeo</strong></a>
+</div>
 
 ---
 
